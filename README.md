@@ -1,8 +1,8 @@
 # Finding Lane Lines on the Road
 ### Udacity - Self-Driving Car NanoDegree
 
-**Author:** Bryan Rosales
-
+**Author:** Bryan Rosales<br>
+**Date:** May 31st, 2017
 
 Overview
 ---
